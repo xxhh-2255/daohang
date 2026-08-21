@@ -1,1 +1,50 @@
-tvbox111
+{
+    "urls": [
+        {
+           "url":"http://itv.hh111.cloudns.org/live/tvbox/wode0.json",
+           "name":"🔔点击选择下方线路🔔"
+        },
+        {
+           "url": "http://itv.hh111.cloudns.org/live/tvbox/wodecang/1.json",
+           "name":"🏡我的线路①"
+        },
+        {
+          "url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+          "name":"🚀我的线路②"
+        },
+		
+{ "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧计" },
+
+{ "url": "http://itv.hh111.cloudns.org/live/tvbox/wodecang/饭太硬/api.json", "name": "饭太硬" },
+
+{ "url": "http://itv.hh111.cloudns.org/live/tvbox/wodecang/小米/api.json", "name": "小米" },
+
+{ "url": "http://itv.hh111.cloudns.org/live/tvbox/wodecang/肥猫/api.json", "name": "肥猫" },
+
+{ "url": "http://itv.hh111.cloudns.org/live/tvbox/wodecang/王二小/api.json", "name": "王二小" },
+
+{ "url": "http://itv.hh111.cloudns.org/live/tvbox/wodecang/摸鱼儿/api.json", "name": "摸鱼儿" },
+
+{ "url": "http://itv.hh111.cloudns.org/live/tvbox/wodecang/天天开心/api.json", "name": "天天开心" },
+
+{ "url": "http://itv.hh111.cloudns.org/live/tvbox/wodecang/香雅情/api.json", "name": "香雅情" },
+
+{ "url": "http://itv.hh111.cloudns.org/live/tvbox/wodecang/南风/api.json", "name": "南风" },
+
+{ "url": "http://itv.hh111.cloudns.org/live/tvbox/wodecang/骚零/api.json", "name": "骚零" },
+
+{ "url": "http://itv.hh111.cloudns.org/live/tvbox/wodecang/OK/api.json", "name": "OK" },
+
+{ "url": "http://itv.hh111.cloudns.org/live/tvbox/wodecang/白嫖/api.json", "name": "白嫖" },
+
+{ "url": "http://itv.hh111.cloudns.org/live/tvbox/wodecang/戏曲音乐/api.json", "name": "戏曲音乐" },
+
+{ "url": "http://itv.hh111.cloudns.org/live/tvbox/wodecang/短剧频道/api.json", "name": "短剧频道" },
+
+{ "url": "http://itv.hh111.cloudns.org/live/tvbox/wodecang/少儿频道/api.json", "name": "少儿频道" },
+
+{ "url": "http://itv.hh111.cloudns.org/live/tvbox/wodecang/动漫频道/api.json", "name": "动漫频道" },
+
+{ "url": "http://itv.hh111.cloudns.org/live/tvbox/wodecang/tvboxqq/多多/api.json", "name": "多多" }
+     ]
+   }
